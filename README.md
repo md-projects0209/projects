@@ -32,24 +32,15 @@ The flow successfully run on all six emails, emails no. 1-5 were moved to the fo
 
 The flow is documented with screenshots saved in this repository. The screenshots are as follows:
 
-Screenshot 1: Flow in Power Automate
-
-Screenshot 2: Condition parameters
-
-Screenshot 3: Move email (V2) action parameters
-
-Screenshot 4: Export email (V2) action parameters
-
-Screenshot 5: Create file action parameters
-
-Screenshot 6: Add a To-do (V3) action parameters
-
-Screenshot 7: Add a To-do (V3) action body content
-
-Screenshot 8: Emails in "Job search" folder 
-
-Screenshot 9: Saved emails in OneDrive
-
-Screenshot 10: To do tasks in "Job search tracker" list
+1. Flow in Power Automate
+2. Condition parameters
+3. Move email (V2) action parameters
+4. Export email (V2) action parameters
+5. Create file action parameters
+6. Add a To-do (V3) action parameters
+7. Add a To-do (V3) action body content
+8. Emails in "Job search" folder 
+9. Saved emails in OneDrive
+10. To do tasks in "Job search tracker" list
 
 
