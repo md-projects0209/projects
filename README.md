@@ -34,26 +34,42 @@ The flow is documented with screenshots saved in this repository. The screenshot
 Flow in Power Automate
 ![Power Automate Flow Overview](./Screenshot 1-Flow in Power Automate.png)
 
+
+
 Condition parameters
 ![Condition parameters](./Screenshot 2-Condition parameters.png)
+
+
 
 Move email (V2) action parameters
 ![Move email (V2) action parameters](./Screenshot 3-Move email (V2) action parameters.png)
 
+
+
 Export email (V2) action parameters
 ![Export email (V2) action parameters](./Screenshot 4-Export email (V2) action parameters.png)
+
+
 
 Create file action parameters
 ![Create file action parameters](./Screenshot 5-Create file action parameters.png)
 
+
+
 Add a To-do (V3) action parameters
 ![Add a To-do (V3) action parameters](./Screenshot 6-Add a To-do (V3) action parameters.png)
+
+
 
 Add a To-do (V3) action body content
 ![Add a To-do (V3) action body content](./Screenshot 7-Add a To-do (V3) action body content.png)
 
+
+
 Emails in "Job search" folder 
 ![Emails in Job search folder](./Screenshot 8-Emails in Job search folder.png)
+
+
 
 Saved emails in OneDrive
 ![Saved emails in OneDrive](./Screenshot 9-Saved emails in OneDrive.png)
