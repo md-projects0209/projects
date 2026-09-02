@@ -31,6 +31,9 @@ The flow successfully run on all six emails, emails no. 1-5 were moved to the fo
 
 The flow is documented with screenshots saved in this repository. The screenshots are as follows:
 
+![Power Automate Flow Overview](./Screenshot 1-Flow in Power Automate.png)
+
+
 1. Flow in Power Automate
 2. Condition parameters
 3. Move email (V2) action parameters
