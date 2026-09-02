@@ -1,4 +1,5 @@
-# projects
+# Projects
+
 Job search tracker
 
 Purpose:
