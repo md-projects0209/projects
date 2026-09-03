@@ -17,6 +17,8 @@ The Power Automate cloud flow catches incoming Microsoft Outlook emails and filt
 If the keyword is present, the email is moved to "Job search" folder in Microsoft Outlook. The same email is then saved to OneDrive in a .eml format to archive all original information as well as attachments using a name combination of time received and subject to avoid duplicates. 
 Lastly, the email details are used to create a new To Do task in Microsoft To Do "Job search tracker" list with due date, reminder, notStarted status and customisable notes outlining tasks and suggesting adding quick access links to documents saved in OneDrive for all stages of the application. This is to be edited in the Microsoft To Do app directly depending on what stage the application is at. The notes provide a consistent template for efficient task categorisation and subtask creation.
 
+Testing:
+
 The flow was tested by sending six emails as follows:
 1. Keyword in subject and email body ("application")
 2. Keyword in body only ("application")
