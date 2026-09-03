@@ -19,7 +19,7 @@ Lastly, the email details are used to create a new To Do task in Microsoft To Do
 
 Testing:
 
-The flow was tested by sending six emails as follows:
+The flow was tested by sending six fictional emails as follows:
 1. Keyword in subject and email body ("application")
 2. Keyword in body only ("application")
 3. Keyword in subject ("Application") and email body ("application")
